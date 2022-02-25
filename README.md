@@ -1,9 +1,14 @@
 ### Hi there 👋
 
+Hi, I am Meiyi, a master student at the University of Chicago. I am really interested in topics such as aging, health, and social networks. My research mainly focuses on the social determinants of health and socioecnomic differences in networks in late life.
+
+Feel free to contact me: meiyili@uchicago.edu
 <!--
 **meiyi-li/meiyi-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
