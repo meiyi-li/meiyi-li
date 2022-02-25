@@ -1,6 +1,6 @@
 ### Hi 👋
 
-Hi, I am Meiyi, a master student at the University of Chicago. I am really interested in topics such as aging, health, and social networks. My research mainly focuses on the social determinants of health and socioecnomic differences in networks in late life.
+Hi, I am Meiyi, a master student at the University of Chicago. I am really interested in topics such as aging, health, and social networks. My research mainly focuses on the social determinants of health inequality and socioecnomic differences in networks in late life.
 
 Feel free to contact me: meiyili@uchicago.edu
 <!--
